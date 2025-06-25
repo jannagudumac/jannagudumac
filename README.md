@@ -29,6 +29,7 @@ Gestion de contacts avec recherche dynamique et actions contextuelles sur liste
 - Tailwind CSS : flex
 
 [🌐 Démo live](https://descodeuses-contact-app7.netlify.app/) &nbsp;&nbsp; [💻 Code source](https://github.com/jannagudumac/descodeuses-contact-app)
+
 ---
 
 ### 3️⃣ **Factures**
