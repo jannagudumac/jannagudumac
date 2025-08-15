@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis Janna Gudumac
+# 🦔 Bonjour, je suis Janna Gudumac
 
 Développeuse web formée chez DesCodeuses, j’ai développé des applications modernes et responsives avec **Angular**, **Angular Material**, **Tailwind CSS** et **Java Spring Boot**, en architecture trois couches (présentation, métier, données).
 J’ai intégré la **sécurité JWT**, travaillé avec **PostgreSQL** et **MongoDB**, et produit des diagrammes avec **Talsma UMLDoclet** et **PlantUML**.
