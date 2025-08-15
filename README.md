@@ -55,7 +55,7 @@ Application complète de gestion de tâches avec **frontend (Angular)** et **bac
 * **Frontend** : Angular, Angular Material, Tailwind CSS
 * **Backend** : Java Spring Boot, Spring Security, PostgreSQL, MongoDB, Talsma UMLDoclet, Bcrypt Generator
 
-[🌐 Démo live](https://todo-front25.netlify.app/) &nbsp;&nbsp; [💻 Code source](https://github.com/jannagudumac/todo-front)
+[🌐 Démo live](https://todo-front25.netlify.app) &nbsp;&nbsp; [💻 Code source front](https://github.com/jannagudumac/todo-front) &nbsp;&nbsp; [💻 Code source back](https://github.com/jannagudumac/todo-back)
 
 ---
 
@@ -67,7 +67,7 @@ Gestion de contacts avec recherche dynamique et actions contextuelles sur liste
 - Angular Material : menu contextuel, liste
 - Tailwind CSS : flex
 
-[🌐 Démo live](https://descodeuses-contact-app7.netlify.app/) &nbsp;&nbsp; [💻 Code source front](https://github.com/jannagudumac/todo-front) &nbsp;&nbsp; [💻 Code source back](https://github.com/jannagudumac/todo-back)
+[🌐 Démo live](https://descodeuses-contact-app7.netlify.app/) &nbsp;&nbsp; [💻 Code source](https://github.com/jannagudumac/descodeuses-contact-app) 
 
 ---
 
