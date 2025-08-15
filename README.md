@@ -13,8 +13,6 @@ En parallèle, j’ai acquis des bases en **Python** et développé des **applic
 
 Application complète de gestion de tâches avec **frontend (Angular)** et **backend (Java Spring Boot)**, connectée à **PostgreSQL** pour les données métier et à **MongoDB** pour la journalisation des connexions (*logins*).
 
----
-
 ### **Fonctionnalités côté frontend** :
 
 * Pages **Login** et **Inscription**
@@ -28,8 +26,6 @@ Application complète de gestion de tâches avec **frontend (Angular)** et **bac
 * **Angular Material** : formulaires, listes, tableaux, champs de formulaire
 * **Tailwind CSS** : mise en page responsive avec *grid* et *flex*
 
----
-
 ### **Fonctionnalités côté backend** :
 
 * Développé en **Java Spring Boot** avec **structure en couches** : *Controller*, *DTO*, *Entity*, *Service*, *Repository*
@@ -41,14 +37,10 @@ Application complète de gestion de tâches avec **frontend (Angular)** et **bac
 * Enregistrement des connexions dans **MongoDB**
 * Base métier stockée dans **PostgreSQL**
 
----
-
 ### **Hébergement** :
 
 * Backend : **Render**
 * Frontend : **Netlify**
-
----
 
 ### **Technologies utilisées** :
 
