@@ -2,6 +2,16 @@
 
 Je suis étudiante en master d'informatique à l'Université de Montpellier. J'ai auparavant suivi une formation intensive de 5 mois en développement web chez Descodeuses.
 
+## UMONTPELLIER PROJECTS
+
+### 1️. **Hotel app via REST and Spring**
+Un projet Spring Boot multi-modules simulant un système de réservation hôtelière distribué.
+[💻 Code source](https://github.com/jannagudumac/hotel_rest_spring)
+
+### 2️. **Hotel app via REST and Spring**
+
+[💻 Code source](https://github.com/jannagudumac/hotel_rest_spring)
+
 Pendant mon bootcamp chez DesCodeuses j’ai développé des applications avec **Angular**, **Angular Material**, **Tailwind CSS** et **Java Spring Boot**, en architecture trois couches (présentation, métier, données).
 J’ai intégré la **sécurité JWT**, travaillé avec **PostgreSQL** et **MongoDB**, et produit des diagrammes avec **Talsma UMLDoclet** et **PlantUML**.
 J’ai réalisé des **maquettes Figma** et exploré brièvement un **persona** et une **user journey map**.
