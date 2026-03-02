@@ -6,11 +6,13 @@ Je suis étudiante en master d'informatique à l'Université de Montpellier. J'a
 
 ### 1️. **Hotel app via REST and Spring**
 Un projet Spring Boot multi-modules simulant un système de réservation hôtelière distribué.
-[💻 Code source](https://github.com/jannagudumac/hotel_rest_spring)
-
-### 2️. **Hotel app via REST and Spring**
 
 [💻 Code source](https://github.com/jannagudumac/hotel_rest_spring)
+
+### 2️. **Photo organizer**
+Un code Python simple pour organiser automatiquement votre photothèque en fonction des métadonnées de date. 
+
+[💻 Code source](https://github.com/jannagudumac/photo_organizer)
 
 Pendant mon bootcamp chez DesCodeuses j’ai développé des applications avec **Angular**, **Angular Material**, **Tailwind CSS** et **Java Spring Boot**, en architecture trois couches (présentation, métier, données).
 J’ai intégré la **sécurité JWT**, travaillé avec **PostgreSQL** et **MongoDB**, et produit des diagrammes avec **Talsma UMLDoclet** et **PlantUML**.
