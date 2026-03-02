@@ -2,7 +2,7 @@
 
 Je suis étudiante en master d'informatique à l'Université de Montpellier. J'ai auparavant suivi une formation intensive de 5 mois en développement web chez Descodeuses.
 
-## UMONTPELLIER PROJECTS
+## PROJECTS UMONTPELLIER 
 
 ### 1️. **Hotel app via REST and Spring**
 Un projet Spring Boot multi-modules simulant un système de réservation hôtelière distribué.
@@ -21,9 +21,9 @@ J’ai réalisé des **maquettes Figma** et exploré brièvement un **persona** 
 En parallèle, j’ai développé des **applications monopages simples** en **JavaScript**, **HTML** et **CSS**.
 
 ---
-## DESCODEUSES APPS
+## PROJETS DESCODEUSES 
 
-### 1️⃣ **Application de gestion de tâches**
+### 1️. **Application de gestion de tâches**
 
 Application complète de gestion de tâches avec **frontend (Angular)** et **backend (Java Spring Boot)**, connectée à **PostgreSQL** pour les données métier et à **MongoDB** pour la journalisation des connexions (*logins*).
 
@@ -31,19 +31,18 @@ Application complète de gestion de tâches avec **frontend (Angular)** et **bac
 
 ---
 
-### 2️⃣ **Contacts**
+### 2️. **Contacts**
+Gestion de contacts avec recherche dynamique et actions contextuelles sur liste (Angular, Tailwind CSS)
+
 [🌐 Démo live](https://descodeuses-contact-app7.netlify.app/) &nbsp;&nbsp; [💻 Code source](https://github.com/jannagudumac/descodeuses-contact-app) 
 
 ---
 
-### 3️⃣ **Factures**
+### 3️. **Factures**
+Gestion des factures (Angular, Tailwind CSS)
+
 [🌐 Démo live](https://descodeuses-facture-app7.netlify.app/) &nbsp;&nbsp; [💻 Code source](https://github.com/jannagudumac/descodeuses-facture-app)
 
----
-
-### 4️⃣ **Calculatrice**
-[🌐 Démo live](https://descodeuses-calculatrice-app7.netlify.app/) &nbsp;&nbsp; [💻 Code source](https://github.com/jannagudumac/descodeuses-calculatrice-app)
-  
 ---
 
 ## 📫 Me contacter
