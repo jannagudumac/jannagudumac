@@ -2,7 +2,7 @@
 
 Je suis étudiante en master d'informatique à l'Université de Montpellier. J'ai auparavant suivi une formation intensive de 5 mois en développement web chez Descodeuses.
 
-## PROJECTS UMONTPELLIER 
+## PROJETS UMONTPELLIER 
 
 ### 1️. **Hotel app via REST and Spring**
 Un projet Spring Boot multi-modules simulant un système de réservation hôtelière distribué.
