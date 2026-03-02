@@ -20,7 +20,6 @@ J’ai intégré la **sécurité JWT**, travaillé avec **PostgreSQL** et **Mong
 J’ai réalisé des **maquettes Figma** et exploré brièvement un **persona** et une **user journey map**.
 En parallèle, j’ai développé des **applications monopages simples** en **JavaScript**, **HTML** et **CSS**.
 
----
 ## PROJETS DESCODEUSES 
 
 ### 1️. **Application de gestion de tâches**
