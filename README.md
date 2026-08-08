@@ -1,16 +1,45 @@
 # 🦔 Bonjour, je suis Janna Gudumac
 
 Je suis étudiante en master d'informatique à l'Université de Montpellier. J'ai auparavant suivi une formation intensive de 5 mois en développement web chez Descodeuses.
+## PROJETS UMONTPELLIER
 
-## PROJETS UMONTPELLIER 
+### 1️. **Knowledge Graph pour GraphRAG**
 
-### 1️. **Hotel app via REST and Spring**
+Projet universitaire autour de la modélisation et de l’exploitation d’un graphe de connaissances.
+
+J’ai travaillé principalement sur la **conception du modèle de données et du schéma du graphe**, la structuration des concepts, définitions, sources, critères techniques et données géographiques, ainsi que sur l’architecture du pipeline d’extraction et de transformation des données.
+
+Le projet utilise notamment **Python**, **Neo4j**, **Cypher**, **RDF** et une approche **GraphRAG**.
+
+[💻 Code source](LIEN_GITHUB)
+
+---
+
+### 2️. **Classification de textes scientifiques — Machine Learning**
+
+Projet en équipe basé sur le corpus annoté **SciTweets**, avec plusieurs tâches de classification supervisée de textes scientifiques.
+
+Le travail comprenait le **prétraitement des données textuelles**, la vectorisation **TF-IDF**, la comparaison de plusieurs modèles de classification avec **scikit-learn** et l’analyse des performances à l’aide de la validation croisée, du F1-macro et des matrices de confusion.
+
+J’ai également pris en charge une partie importante de l’organisation technique du projet : **structuration du dépôt GitHub**, consolidation des contributions et configuration d’un lancement simplifié du projet.
+
+Technologies : **Python, pandas, scikit-learn, TF-IDF, Git/GitHub**.
+
+[💻 Code source](LIEN_GITHUB)
+
+---
+
+### 3️. **Hotel app via REST and Spring**
+
 Un projet Spring Boot multi-modules simulant un système de réservation hôtelière distribué.
 
 [💻 Code source](https://github.com/jannagudumac/hotel_rest_spring)
 
-### 2️. **Photo organizer**
-Un code Python simple pour organiser automatiquement votre photothèque en fonction des métadonnées de date. 
+---
+
+### 4️. **Photo organizer**
+
+Un code Python simple pour organiser automatiquement une photothèque en fonction des métadonnées de date.
 
 [💻 Code source](https://github.com/jannagudumac/photo_organizer)
 
