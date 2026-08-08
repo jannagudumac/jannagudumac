@@ -11,7 +11,7 @@ J’ai travaillé principalement sur la **conception du modèle de données et d
 
 Le projet utilise notamment **Python**, **Neo4j**, **Cypher**, **RDF** et une approche **GraphRAG**.
 
-[💻 Code source](LIEN_GITHUB)
+[💻 Code source](https://github.com/theodev23/TER2026)
 
 ---
 
@@ -25,7 +25,7 @@ J’ai également pris en charge une partie importante de l’organisation techn
 
 Technologies : **Python, pandas, scikit-learn, TF-IDF, Git/GitHub**.
 
-[💻 Code source](LIEN_GITHUB)
+[💻 Code source](https://github.com/jannagudumac/ml_project)
 
 ---
 
