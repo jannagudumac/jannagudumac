@@ -15,7 +15,7 @@ Le projet utilise notamment **Python**, **Neo4j**, **Cypher**, **RDF** et une ap
 
 ---
 
-### 2️. **Classification de textes scientifiques — Machine Learning**
+### 2️. **Classification de textes scientifiques - Machine Learning**
 
 Projet en équipe basé sur le corpus annoté **SciTweets**, avec plusieurs tâches de classification supervisée de textes scientifiques.
 
