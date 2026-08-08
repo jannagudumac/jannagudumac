@@ -1,7 +1,10 @@
 # 🦔 Bonjour, je suis Janna Gudumac
 
 Je suis étudiante en master d'informatique à l'Université de Montpellier. J'ai auparavant suivi une formation intensive de 5 mois en développement web chez Descodeuses.
+
 ## PROJETS UMONTPELLIER
+
+Mes projets couvrent notamment le **développement web**, la **modélisation de données**, les **knowledge graphs** et le **machine learning**.
 
 ### 1️. **Knowledge Graph pour GraphRAG**
 
