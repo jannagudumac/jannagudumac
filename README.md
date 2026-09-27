@@ -1,6 +1,6 @@
 # 🦔 Hi, I'm Janna Gudumac
 
-I'm a **Master's student in Computer Science at the University of Montpellier** and hold the French RNCP professional qualification **Concepteur Développeur d’Applications**, completed after an intensive fullstack bootcamp at DesCodeuses.
+I'm a **Master's student in Computer Science at the University of Montpellier** and hold the French RNCP professional qualification **Concepteur Développeur d’Applications**, completed after an intensive 5-month fullstack bootcamp at DesCodeuses.
 
 I'm particularly interested in **backend development, software architecture, DevOps and cloud infrastructure, REST APIs, data modelling and deployment**.
 
