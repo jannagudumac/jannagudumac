@@ -2,7 +2,7 @@
 
 I'm a **Master's student in Computer Science at the University of Montpellier** and hold the French RNCP professional qualification **Concepteur Développeur d’Applications**, completed after an intensive 5-month fullstack bootcamp at DesCodeuses.
 
-I'm particularly interested in **backend / fullstack development, software architecture, DevOps and cloud infrastructure, REST APIs, data modelling and deployment**.
+I'm particularly interested in **DevOps and cloud infrastructure, backend / fullstack development, software architecture,  REST APIs, data modelling and deployment**.
 
 ---
 
