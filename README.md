@@ -2,30 +2,30 @@
 
 I'm a **Master's student in Computer Science at the University of Montpellier** and hold the French RNCP professional qualification **Concepteur Développeur d’Applications**, completed at DesCodeuses.
 
-I'm particularly interested in **backend development, software architecture, DevOps/cloud infrastructure, REST APIs, data modelling and deployment**.
+I'm particularly interested in **backend development, software architecture, DevOps and cloud infrastructure, REST APIs, data modelling and deployment**.
 
 ---
 
-## Featured projects
+## 🚀 Featured Projects
 
 ### DevOps Cloud Lab
 
-A small end-to-end DevOps project built around a Spring Boot API.
+An end-to-end DevOps project built around a simple Spring Boot API.
 
-The application itself is intentionally simple. The goal is to demonstrate the complete path from source code to containerisation, CI, security scanning, monitoring, Kubernetes orchestration, infrastructure as code and cloud deployment.
+The application itself is intentionally small: the goal is to demonstrate the complete path from source code to containerisation, CI, security scanning, monitoring, Kubernetes orchestration, infrastructure as code and cloud deployment.
 
-#### What it includes
+**Highlights:**
 
 - **Docker / Docker Compose** for containerisation and local multi-service environments
-- **GitHub Actions** for automated testing, application build and Docker image build
-- **GitHub Container Registry (GHCR)** for publishing Docker images
+- **GitHub Actions** for automated testing, builds and Docker image creation
+- **GitHub Container Registry (GHCR)** for publishing images
 - **Trivy** for container vulnerability scanning
-- **Prometheus + Grafana** for application monitoring
-- **Spring Boot Actuator / Micrometer** for health checks and metrics
-- **Kubernetes + kind** with Deployments, Pods, Service, ConfigMap, readiness/liveness probes and rolling updates
+- **Spring Boot Actuator + Micrometer** for application metrics and health checks
+- **Prometheus + Grafana** for monitoring
+- **Kubernetes + kind** with Deployments, Pods, Service, ConfigMap, readiness/liveness probes, self-healing and rolling updates
 - **Terraform** for infrastructure as code
 - **AWS EC2 + Security Groups** for cloud deployment
-- Automated EC2 startup configuration that installs Docker and runs the image from GHCR
+- Automated EC2 startup configuration that installs Docker and runs the application image from GHCR
 
 [💻 View project](https://github.com/jannagudumac/devops-cloud-lab)  
 [📘 Detailed build notes](https://github.com/jannagudumac/devops-cloud-lab/blob/main/MyNotes.md)
@@ -38,7 +38,7 @@ A full-stack web application developed as part of my RNCP **Concepteur Développ
 
 **Music Wall** allows users to create personalised listening spaces, organise albums and tracks into sections, and share their walls with other users.
 
-#### Architecture and features
+**Architecture and features:**
 
 - Frontend with **Angular 19 / TypeScript / RxJS**
 - REST backend with **Java / Spring Boot**
@@ -56,9 +56,9 @@ A full-stack web application developed as part of my RNCP **Concepteur Développ
 
 ---
 
-## 🎓 University projects — University of Montpellier
+## 🎓 University Projects — University of Montpellier
 
-### 1. Knowledge Graph for GraphRAG
+### Knowledge Graph for GraphRAG
 
 University project focused on the modelling and use of a knowledge graph.
 
@@ -70,11 +70,11 @@ I mainly worked on the **data model and graph schema design**, structuring conce
 
 ---
 
-### 2. Scientific Text Classification — Machine Learning
+### Scientific Text Classification — Machine Learning
 
 Team project based on the annotated **SciTweets** dataset, with several supervised classification tasks.
 
-Work included text preprocessing, **TF-IDF** vectorisation, model comparison with **scikit-learn**, cross-validation, F1-macro evaluation and confusion matrices.
+The project involved text preprocessing, **TF-IDF vectorisation**, model comparison with **scikit-learn**, cross-validation, F1-macro evaluation and confusion matrices.
 
 I also contributed to the **GitHub repository structure**, integration of team contributions and project execution setup.
 
@@ -84,15 +84,67 @@ I also contributed to the **GitHub repository structure**, integration of team c
 
 ---
 
-### 3. Hotel REST API
+### Data Structures & Complexity Benchmark
+
+Java benchmarking project comparing two implementations of a sensor container:
+
+- `LinkedList<Capteur>`
+- `HashMap<Integer, Capteur>`
+
+The project measures execution time and memory usage across multiple dataset sizes and workload scenarios, then exports the results to CSV and JSON for analysis and visualisation.
+
+My main contribution focused on the **Python/Jupyter analysis notebook and graph integration**, including performance comparisons and visualisation of benchmark results.
+
+**Technologies:** Java, Python, pandas, NumPy, Matplotlib, Jupyter
+
+[💻 Source code](https://github.com/jannagudumac/data_structures_complexity)
+
+---
+
+### Focus Planner — Human-Computer Interaction
+
+Team project focused on **human-computer interaction and user-centred design**.
+
+We built a prototype for personal planning and collaborative project management with:
+
+- project and priority tracking
+- task and sub-task management
+- calendar views
+- Gantt visualisation
+- collaborative task assignment
+- focus mode with a timer
+
+The project also includes a dedicated **user-testing version** with guided scenarios, multiple test cases, progress tracking, notes and JSON export.
+
+**Technologies:** HTML, CSS, JavaScript, localStorage, JSON
+
+[💻 Source code](https://github.com/jannagudumac/ihm_project)
+
+---
+
+### Hotel REST API
 
 A **multi-module Spring Boot project** simulating a distributed hotel booking system communicating through REST APIs.
+
+**Technologies:** Java, Spring Boot, REST APIs
 
 [💻 Source code](https://github.com/jannagudumac/hotel_rest_spring)
 
 ---
 
-## 💻 Other web projects
+### Pepper Robot Dialogue Chatbot
+
+University project completed for a **Project Management** course and designed around the **Pepper humanoid robot** available in the professor's laboratory.
+
+We created structured dialogue options and conversational flows for interaction with the robot.
+
+The project focused on **conversation design, dialogue scenarios, user interaction and collaborative project work**.
+
+[💻 Source code](https://github.com/jannagudumac/Chatbot-ICo-Cassiopeia----GUDUMAC-PHAM)
+
+---
+
+## 💻 Other Projects
 
 ### Task Management Application
 
@@ -104,45 +156,33 @@ Full-stack application built with **Angular + Spring Boot**, using **PostgreSQL*
 
 ---
 
-### Contacts
-
-Angular contact management application with dynamic search and contextual actions.
-
-**Technologies:** Angular, Tailwind CSS
-
-[🌐 Live demo](https://descodeuses-contact-app7.netlify.app/)  
-[💻 Source code](https://github.com/jannagudumac/descodeuses-contact-app)
-
----
-
-### Invoices
-
-Invoice management application.
-
-**Technologies:** Angular, Tailwind CSS
-
-[🌐 Live demo](https://descodeuses-facture-app7.netlify.app/)  
-[💻 Source code](https://github.com/jannagudumac/descodeuses-facture-app)
-
----
-
-## 🛠️ Small Python project
-
 ### Photo Organizer
 
-Python script that automatically organises a photo library using date metadata.
+Python utility that recursively scans image files, extracts dates from **EXIF metadata** or file-system metadata, and automatically organises photos into a `YYYY/MM` directory structure.
+
+It also generates a CSV log describing how each file was classified.
 
 [💻 Source code](https://github.com/jannagudumac/photo_organizer)
 
 ---
 
+### Small Angular Projects
+
+Additional frontend projects created while learning Angular and UI development:
+
+- [Contacts application](https://github.com/jannagudumac/descodeuses-contact-app)
+- [Invoice management application](https://github.com/jannagudumac/descodeuses-facture-app)
+
+---
+
 ## 🧰 Technologies
 
-**Backend:** Java, Spring Boot, REST, JPA/Hibernate  
-**Frontend:** Angular, TypeScript, RxJS, HTML/CSS, Tailwind CSS  
-**Data:** PostgreSQL, MongoDB, Neo4j, Cypher, pandas  
+**Backend:** Java, Spring Boot, REST APIs, JPA/Hibernate  
+**Frontend:** Angular, TypeScript, RxJS, JavaScript, HTML/CSS, Tailwind CSS  
+**Databases & Data:** PostgreSQL, MongoDB, Neo4j, Cypher, pandas  
 **DevOps & Cloud:** Git/GitHub, GitHub Actions, Docker, Docker Compose, Kubernetes, kind, Terraform, AWS EC2, GHCR, Trivy, Prometheus, Grafana, Nginx, Netlify, Render  
-**Other:** Python, scikit-learn, PlantUML
+**Data Science:** Python, scikit-learn, NumPy, Matplotlib, Jupyter, TF-IDF  
+**Other:** JWT, BCrypt, JUnit, Mockito, MockMvc, PlantUML
 
 ---
 
